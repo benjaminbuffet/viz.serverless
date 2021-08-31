@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-olboxviz-dev-141937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::591443299326:role/amplify-olboxviz-dev-141937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::591443299326:role/amplify-olboxviz-dev-141937-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-olboxviz-dev-141937-deployment",
+      "UnauthRoleName": "amplify-olboxviz-dev-141937-unauthRole",
+      "StackName": "amplify-olboxviz-dev-141937",
+      "StackId": "arn:aws:cloudformation:us-east-1:591443299326:stack/amplify-olboxviz-dev-141937/911e3e60-001e-11ec-8e1c-0a3049666ffd",
+      "AmplifyAppId": "d11fcb9klgxr20"
+    },
+    "categories": {
+      "auth": {
+        "olboxviz35ea5041": {}
+      }
+    }
+  }
+}
